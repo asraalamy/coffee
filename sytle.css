@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif ;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(lac.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    direction: rtl;
+}
+
+
+.home .about {
+    color: #a8a6a4;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 100px;
+    
+}
+
+
+b {
+    color: #543310;
+}
+
+
+.center {
+    text-align: center;
+    padding: 30px;
+    background-color: black;
+    box-shadow: 0 0 30px #a8a6a4;
+    margin-top: 400px;
+}
+
+h1 {
+    color: #543310;
+    margin-bottom: 30px;
+}
+
+button {
+    background-color: #513826;
+    color:  #A67B5B;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background-color: #ECB176;
+} 
+ 
+
+
